@@ -1,0 +1,5 @@
+
+Prihodit kak-to GosNarkoKontrol' v Yandex.
+Inspectoru govoryat: U nas nichego zapreshennogo net.
+A inspector otvechaet: Naydetsya vsyo
+

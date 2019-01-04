@@ -1,0 +1,5 @@
+#!/bin/bash
+ 
+touch Friday.txt
+grep -c -i  "friday" crusoe.txt >>Friday.txt
+sed 's/Friday/Saturday' crusoe.txt

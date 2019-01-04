@@ -1,0 +1,9 @@
+#!/bin/bash
+touch Friday.txt
+grep -i friday crusoe.txt>Friday.txt
+touch file1.txt file2.txt
+echo "Goodbye nothing" >>file1.txt
+echo "Hello world">file1.txt
+echo "Hello world">>file2.txt
+wget http://factorized.net/crusoe.txt
+

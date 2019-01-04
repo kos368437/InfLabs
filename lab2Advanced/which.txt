@@ -1,0 +1,4 @@
+/bin/cat
+/usr/bin/less
+/bin/grep
+/usr/bin/find
